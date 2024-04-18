@@ -64,4 +64,3 @@ private:
     // Stop the threadpool or not
     bool stop;
 };
-
